@@ -1,0 +1,79 @@
+h1 {
+  text-align: center; 
+  font-family: impact; 
+}
+
+.size {
+  font-size: 60px;
+}
+
+#only {
+  color: white;
+}
+
+body{
+  background-color: violet; 
+}
+
+ul {
+  text-decoration: none; 
+  border: 2px solid tomato; 
+  list-style-type: none; 
+  overflow: hidden; 
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline; 
+  float: left; 
+  border-right: 2px solid tomato; 
+  padding: 5px 10px 5px 10px;  
+}
+
+li a {
+  text-decoration: none; 
+}
+
+li a:hover { 
+  color: white; 
+}
+
+.blue {
+  color: blue; 
+}
+
+.white {
+  color: white; 
+}
+
+.red {
+  color: red; 
+}
+
+li {
+  display: inline; 
+  float: left; 
+  border-right: 2px solid tomato; 
+  padding: 5px 10px 5px 10px;  
+}
+
+li a {
+  text-decoration: none; 
+}
+
+li a:hover { 
+  color: white; 
+}
+
+.blue {
+  color: blue; 
+}
+
+.white {
+  color: white; 
+}
+
+.red {
+  color: red; 
+}
