@@ -1,79 +1,54 @@
-h1 {
-  text-align: center; 
-  font-family: impact; 
-}
-
-.size {
-  font-size: 60px;
-}
-
-#only {
-  color: white;
-}
-
-body{
-  background-color: violet; 
+h1 { 
+color: blue; 
+font-family: monospace;
+font-size: 50px; 
+text-align: center;
 }
 
 ul {
-  text-decoration: none; 
-  border: 2px solid tomato; 
-  list-style-type: none; 
-  overflow: hidden; 
+  list-style-type: none;
   margin: 0;
   padding: 0;
+  width: 100%;
+  background-color: #333;
+  border: 1px solid #555;
+  overflow: hidden; 
 }
 
 li {
-  display: inline; 
-  float: left; 
-  border-right: 2px solid tomato; 
-  padding: 5px 10px 5px 10px;  
+  display: inline;
 }
 
 li a {
-  text-decoration: none; 
+color: white:
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+
 }
 
-li a:hover { 
-  color: white; 
+footer {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   
 }
 
-.blue {
-  color: blue; 
+body {
+	background-color: lightblue;  
+
 }
 
-.white {
-  color: white; 
-}
-
-.red {
-  color: red; 
-}
-
-li {
-  display: inline; 
-  float: left; 
-  border-right: 2px solid tomato; 
-  padding: 5px 10px 5px 10px;  
-}
-
-li a {
-  text-decoration: none; 
-}
-
-li a:hover { 
-  color: white; 
-}
-
-.blue {
-  color: blue; 
+.size {
+font-size: 64px; 
 }
 
 .white {
-  color: white; 
+color: white; 
 }
 
 .red {
-  color: red; 
+color: red; 
 }
+
+<h1>TRU</br>House</br>of</br>Fades</h1> 
