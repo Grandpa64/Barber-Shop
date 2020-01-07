@@ -10,7 +10,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: #333;
+  background-color: lightblue;
   border: 1px solid #555;
   overflow: hidden; 
 }
@@ -35,8 +35,9 @@ footer {
 }
 
 body {
-	background-color: lightblue;  
-
+  background-color: gray;  
+  padding-bottom: 20;
+  position: relative; 
 }
 
 .size {
@@ -51,4 +52,12 @@ color: white;
 color: red; 
 }
 
-<h1>TRU</br>House</br>of</br>Fades</h1> 
+footer {
+  text-align: center; 
+  background-color: #333;
+  color: #fff;
+  padding: 20; 
+  positon: absolute;
+  bottom: 0; 
+  width: 100%; 
+}
